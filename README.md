@@ -8,7 +8,7 @@
 ```sh
 $ # Using python3.6+
 $ source ~/your/virtual/env
-$ pipenv install --env
+$ pip install -r requirements.txt
 ```
 ### Build using docker
 ```sh
