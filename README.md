@@ -1,4 +1,4 @@
-# John the Reaper on Golem network
+# John the Ripper on Golem network
 ## Demo (Youtube)
 [![Everything Is AWESOME](https://img.youtube.com/vi/d6UIb0i9ePI/0.jpg)](https://youtu.be/d6UIb0i9ePI "Everything Is AWESOME")
 ## Prerequisites
